@@ -56,6 +56,10 @@ li {
     align-items: center;
     gap: 2rem;
     margin-bottom: 5rem;
+
+    background: #f4f4f4;
+    padding: 2rem;
+    border-radius: 12px;
 }
 
 .hero img {

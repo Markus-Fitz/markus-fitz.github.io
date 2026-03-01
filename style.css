@@ -93,6 +93,10 @@ li {
     margin-bottom: 1rem;
 }
 
+.project:nth-child(odd) {
+    flex-direction: row-reverse;
+}
+
 /* media query */
 @media (max-width: 768px) {
 

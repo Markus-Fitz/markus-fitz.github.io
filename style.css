@@ -50,18 +50,12 @@ li {
 }
 
 /* Hero section */
-.hero-section {
-    background-color: #eaf4ff;
-    padding: 4rem 0;
-}
-
 .hero {
-    max-width: 900px;
-    margin: 0 auto;
-    padding: 0 1.5rem;
     display: flex;
+    flex-direction: row-reverse;
     align-items: center;
     gap: 2rem;
+    margin-bottom: 5rem;
 }
 
 .hero img {

@@ -55,6 +55,7 @@ li {
     align-items: center;
     gap: 2rem;
     margin-bottom: 5rem;
+    background-color: #414141;
 }
 
 .hero img {
